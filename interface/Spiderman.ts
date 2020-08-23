@@ -1,3 +1,5 @@
-interface Spiderman{
-    
-}
+interface superHero {
+    nombre:string;
+    poderes:string[];
+  }
+ 
